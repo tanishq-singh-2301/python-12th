@@ -6,7 +6,7 @@
 
 1. **build in function**, like `input()`, `len()`, `int()`.
 2. **user defined**
-3. **module based**, like `sqrt()`, `plot()`
+3. **module based**, like `sqrt()`, `plot()`.
     ```py
     import math
     ```
